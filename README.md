@@ -1,1 +1,3 @@
-# SQL-sample-3
+# SELECT *
+# FROM readers
+# WHERE reader_address IS NOT NULL
